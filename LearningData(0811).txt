@@ -1,0 +1,1210 @@
+Ch_pal e	3
+Ch_pal i o n ai	3
+Ch_pal i u p t_pal i	6
+Sh a k a	3
+Sh a k e l_vel ee	3
+Sh a k n_pal i s	3
+Sh a k u t ee	3
+Sh a l_pal e	3
+Sh a l_pal i s	3
+Sh a l_vel n a	3
+Sh a l_vel t a s	3
+Sh a l_vel t_pal i	3
+Sh a l_vel t_pal i n_pal i s	3
+Sh a l_vel t_pal i s	3
+Sh a u d_pal ii t_pal i	3
+Sh a u k Sh t a s	3
+Sh a u t u v a s	3
+Sh a u t_pal i	3
+Sh au k s m a s	3
+Sh au k t_pal i	6
+Sh e Sh t a d i e n_pal i s	3
+Sh e Sh_pal e s d e Sh_pal i m t	3
+Sh e Sh_pal i	3
+Sh e f a s	3
+Sh e n	3
+Sh e r k Sh n a s	3
+Sh e r t_pal i	3
+Sh ei m a	3
+Sh i e n a s	3
+Sh l_pal eu Zh t_pal i	3
+Sh l_vel a m ee t_pal i	3
+Sh l_vel a p_pal e s	3
+Sh l_vel ai t a s	3
+Sh l_vel au n_pal i s	3
+Sh l_vel u e t a	3
+Sh l_vel u e t_pal i	6
+Sh n e k ee t_pal i	3
+Sh n e k u Ch_pal i u e t_pal i s	3
+Sh n_pal i oo k Sh t_pal i	3
+Sh oo k t_pal i	6
+Sh oo n a s	3
+Sh u k o s	3
+Sh u k u e t_pal i	3
+Sh u l_pal i n ii s	3
+Sh uo	3
+Sh uu s n_pal i s	3
+Sh v a r u s	3
+Sh v a r_pal i n t_pal i	3
+Sh v e l_vel n u s	3
+Sh v i e Zh_pal e s	3
+Sh v i e s a	3
+Sh v i e s t_pal i	3
+Sh v i e s u s	3
+Sh v_pal i l_vel p au t_pal i	3
+Sh v_pal i l_vel p t_pal i	3
+Sh v_pal i n k t_pal i	3
+Sh_pal e n d i e n	3
+Sh_pal i a u r ee	3
+Sh_pal i l_vel t a s	3
+Sh_pal i m t a s	3
+Sh_pal i r d_pal i s	3
+Sh_pal i s	3
+Sh_pal i t a s	3
+Sh_pal ii k Sh t u s	3
+Zh a b a n g ai	3
+Zh a d ee t_pal i	3
+Zh a d_pal i n t_pal i	3
+Zh a l_pal e s	6
+Zh a l_vel oo t_pal i	3
+Zh a n d a s	3
+Zh a n d_pal i k au l_pal i s	3
+Zh aa s_pal i s	3
+Zh ai d_pal i m a s	3
+Zh ai s m a s	3
+Zh ai s t_pal i	3
+Zh ai z d a	3
+Zh e m ai	3
+Zh e m ee	9
+Zh e m ii n	3
+Zh e n g t_pal i	3
+Zh e n k l_vel a s	3
+Zh i e d a s	3
+Zh i e m a	3
+Zh i e m_pal ei	3
+Zh i e v e l_vel ee	3
+Zh i e v ee	3
+Zh m o g u s	3
+Zh m o n a	3
+Zh m oo n ee s	3
+Zh o l_vel ee	3
+Zh oo d_pal i s	3
+Zh u d ii t_pal i	3
+Zh u v_pal i s	3
+Zh uu t_pal i	3
+Zh v a n g ee t_pal i	3
+Zh v ai g Zh d ee	3
+Zh v e ii oo t_pal i	3
+Zh_pal i b ee t_pal i	3
+Zh_pal i n g s n_pal i s	3
+Zh_pal i n g s n_pal i u e t_pal i	3
+Zh_pal i n o m a s	3
+Zh_pal i n oo t_pal i	3
+Zh_pal i n_pal e	3
+Zh_pal ii m ee	3
+Zh_pal ii m ee t_pal i	3
+Zh_pal ii m u s	3
+Zh_pal iu r ee t_pal i	6
+Zh_pal iu r ee t_pal i ii ii	3
+a Sh	3
+a Sh a r a	3
+a Sh t r u s	6
+a Sh t u e n_pal e s d e Sh_pal i m t	3
+a Sh t uo n_pal i	3
+a d a t a	3
+a k l_vel a s	3
+a k m uo	3
+a k_pal i s	3
+a l_vel i e ii u s	3
+a l_vel k a n a s	3
+a l_vel k uu n ee	3
+a l_vel k_pal i s	3
+a l_vel s u e t_pal i	3
+a m Zh_pal i u s	3
+a n g l_pal i s	3
+a n k s Ch_pal eu	3
+a n t k l_vel o d ee	3
+a n t r a d i e n_pal i s	3
+a n t r a s	3
+a n t_pal i s	3
+a n uo k a r t	3
+a n uo m e t	3
+a p a Ch_pal i o ii e	3
+a p g a d_pal i n_pal i m a s	3
+a p g a u t_pal i	3
+a p g_pal i n t_pal i	6
+a p ii k a k l_vel ee	3
+a p l_vel a n k ii t_pal i	3
+a p m au d a u t_pal i	3
+a p m o k ee t_pal i	3
+a p s a k_pal ii m a s	3
+a p s k r_pal i t a s	3
+a p s k r_pal i t_pal i m a s	3
+a p s k r_pal i t_pal i s	3
+a p s u k r u s	3
+a p s u n k_pal i n t_pal i	3
+a p s_pal i r e n g t_pal i	3
+a p s_pal i v_pal i l_vel k t_pal i	3
+a p v a l_vel u s	3
+a p v e r s t_pal i	3
+a r	3
+a r b a	3
+a r b a t a	3
+a r k l_vel ii s	3
+a r t_pal i m a s	3
+a t Sh_pal i p ae s	3
+a t b u l_vel ai	3
+a t ei t_pal i	6
+a t g a l_vel	3
+a t k_pal i r p t_pal i	3
+a t m_pal i n t_pal i s	3
+a t n e Sh t_pal i	3
+a t p a Zh_pal i n t_pal i	3
+a t p ii a u t_pal i	3
+a t r a m a	3
+a t r oo d_pal ii t_pal i	3
+a t s p a r a	3
+a t s t u m a s	6
+a t s_pal i k e l_vel t_pal i	6
+a t s_pal i s a k ii t_pal i	3
+a t s_pal i s ee s t_pal i	3
+a t s_pal i t_pal i k t_pal i	3
+a t v e r t_pal i	3
+a t v_pal i r a s	3
+a t_pal i d a r ii t_pal i	3
+a u d e k l_vel a s	3
+a u g t_pal i	3
+a u k s a s	3
+a v_pal i s	3
+ai m a n u e t_pal i	3
+au k Sh t ii n	3
+au k Sh t u m a	3
+au k Sh t_pal i s	3
+au l_pal i n_pal ei b a t ai	3
+au s_pal i s	3
+b a Zh n ii Ch_pal e	3
+b a d a s	3
+b a ii i m_pal i n t_pal i s	6
+b a l_vel a n d_pal i s	3
+b a l_vel s a s	3
+b a l_vel t a s	3
+b a m b a	3
+b a n d a	3
+b a n g a	3
+b a r b e n t_pal i	3
+b a r t_pal i s	3
+b a r z d a	3
+b a t a s	3
+b ai g t_pal i	3
+b ai g t_pal i s	3
+b ai s_pal ei	3
+b e ii au s m_pal i s	3
+b e l_vel s t_pal i	3
+b e r Zh a s	3
+b e r g Zh d Zh_pal ei	3
+b e r n_pal i u k a s	3
+b e r t_pal i	3
+b ee g t_pal i	6
+b l_pal i z g ee t_pal i	3
+b l_vel oo g a s	9
+b r a n g u s	3
+b r ai Zh ii t_pal i	3
+b r ee Zh_pal i s	3
+b r i e d_pal i s	3
+b r oo l_pal i s	3
+b r uu k Sh n ii s	3
+b u Ch_pal i u e t_pal i	3
+b u k a s	3
+b u l_pal i u s	3
+b u r n a	3
+b u v ae s	3
+b_pal i Ch_pal i u l_pal i s	3
+b_pal i ii oo t_pal i	6
+b_pal i r Zh e l_pal i s	3
+b_pal i z n_pal i s	3
+d Zh_pal eu g s m a s	3
+d Zh_pal i uu t_pal i	3
+d a Zh ai	3
+d a Zh ii t_pal i	3
+d a Zh n ai	3
+d a b a r	3
+d a b_pal i n t_pal i	3
+d a ii i k t a s	3
+d a l_pal i s	3
+d a l_vel ii k a s	6
+d a l_vel ii t_pal i	3
+d a n g t_pal i s	3
+d a n g u s	3
+d a n t_pal i s	3
+d a r	3
+d a r b a s	3
+d a r b_pal i n_pal i n k a s	3
+d a r ii t_pal i	3
+d a r ii t_pal i s	3
+d ai n a	3
+d ai n u e t_pal i	3
+d au g ii b ee	3
+d e Sh_pal i m t	3
+d e Sh_pal i n ii s	3
+d e b e s_pal i s	3
+d e g t_pal i	3
+d e g_pal i n t_pal i	3
+d e ii u e t_pal i	3
+d e l_vel n a s	3
+d e v ii n_pal e s d e Sh_pal i m t	3
+d e v_pal ii n_pal i	3
+d ee Zh ee	3
+d ee d ee	3
+d ee l_vel	3
+d ee l_vel k oo	3
+d ee l_vel ei	3
+d ee s t_pal ii t_pal i	3
+d ee t_pal i	3
+d i e n a	3
+d i e v a s	3
+d ii d_pal i s	3
+d o v a n a	3
+d o v a n oo t_pal i	3
+d r a b u Zh_pal ei	3
+d r au g a s	6
+d r au g e	3
+d r au g_pal i ii a	3
+d r ee g n a s	3
+d r u g ii s	3
+d r u s k a	3
+d u	3
+d u e n a	3
+d u e t_pal i	3
+d u g n a s	3
+d u k t ee	3
+d u l_vel k ee s	3
+d u m t_pal i	3
+d u r_pal ii s	3
+d uo b ee	3
+d uu m ai	3
+d v a s_pal e	3
+d v ii l_pal i k a	3
+d v_pal i d e Sh_pal i m t	3
+d_pal i d e l_pal i s	3
+d_pal i d ee t_pal i	3
+d_pal i d u m a s	3
+d_pal i d_pal i s	3
+d_pal i n g t_pal i	3
+d_pal i r Zh a s	6
+d_pal i r b t_pal i	6
+e Sh e r ii s	3
+e Zh e r a s	3
+e g l_vel ee	3
+e r e l_pal i s	3
+ei s e n a	3
+ei t_pal i	6
+f_pal i g uu r a	3
+g a b a l_vel a s	3
+g a d_pal i n t_pal i	3
+g a l_pal e	3
+g a l_vel a s	3
+g a l_vel aa s t_pal i	3
+g a l_vel ee t_pal i	3
+g a l_vel v a	3
+g a l_vel v oo t_pal i	3
+g a m_pal i n t_pal i	6
+g a n ii t_pal i	3
+g a n_pal ii k l_vel a	3
+g a r d u s	3
+g a r s a s	6
+g a r s u s	3
+g a t v ee	3
+g a u t_pal i	6
+g ai d ii s	3
+g e g u Zh ee	6
+g e l_vel b ee t_pal i	3
+g e l_vel e Zh_pal i s	3
+g e l_vel t oo n a s	3
+g e l_vel t_pal i	3
+g e r a s	3
+g e r k l_vel ee	3
+g e r t_pal i	3
+g e r v ee	3
+g e r_pal i n t_pal i	3
+g ee l_vel ee	3
+g ei d u l_vel ii s	3
+g i e s m ee	3
+g ii d_pal ii t o ii a s	3
+g ii v a s	3
+g l_vel u e s n_pal i s	3
+g r a Zh u s	6
+g r a Zh_pal i n t_pal i	3
+g r a n d_pal ii t_pal i	3
+g r au d_pal i n t_pal i	3
+g r e t a	3
+g r ei t ai	3
+g r i e b t_pal i	6
+g r ii b a s	3
+g r oo t_pal i	3
+g r u e d_pal i s	3
+g r uu d ai	3
+g r_pal eu s t_pal i n_pal i s	3
+g r_pal i a u d ee t_pal i	3
+g r_pal i a u s t_pal i	3
+g r_pal i m z t_pal i	3
+g r_pal i n d_pal ii s	3
+g r_pal ii Zh t_pal i	3
+g u l_vel b ee	3
+g u l_vel ee t_pal i	3
+g uu Zh t a	3
+g_pal i Zh u s	3
+g_pal i ii a	3
+g_pal i m t_pal i	3
+g_pal i n t_pal i	9
+g_pal i r d ee t_pal i	3
+g_pal i r t_pal i	3
+g_pal i r t_pal i s	3
+g_pal ii v a t ee	3
+g_pal ii v e n t_pal i	6
+g_pal ii v e n_pal i m a s	3
+g_pal ii v ii b ee	3
+g_pal ii v uu n a s	3
+i Sh Ch_pal e	3
+i Sh k a r t o	3
+i Sh n au ii o	3
+i Sh p r a d Zh_pal i uu	3
+i Sh au g_pal i n t_pal i	3
+i Sh ei t_pal i	3
+i Sh g_pal i r s t_pal i	3
+i Sh k ae s t_pal i	3
+i Sh m oo k_pal ii t_pal i	3
+i Sh n ii k t_pal i	3
+i Sh r_pal i n k t_pal i	3
+i Sh s a u g o t_pal i	3
+i Sh s_pal i r_pal i n k t_pal i	3
+i Sh s_pal i s k_pal i r t_pal i	3
+i Sh t ai s ii t_pal i	3
+i Sh v a Zh_pal i u e t_pal i	3
+i Sh v e r s t_pal i	3
+i Sh v ii k t_pal i	3
+i e Sh k oo t_pal i	3
+i l_vel g a s	3
+i l_vel g ai	3
+i l_vel g u m a s	3
+i l_vel g_pal i s	3
+i n d ai	3
+i r	3
+i r k l_vel a s	3
+i r k l_vel u e t_pal i	3
+i r t_pal i s	3
+ii a u d_pal i n t_pal i	3
+ii a u n a s	3
+ii a v ai	3
+ii au	3
+ii au s t_pal i	3
+ii ee g a	6
+ii i	3
+ii i s	3
+ii ii v_pal i r Sh uu	3
+ii ii Zh e n g t_pal i	3
+ii ii ei t_pal i	3
+ii ii k_pal i Sh t_pal i	3
+ii ii l_vel a n k a	3
+ii ii v ai r u s	3
+ii ii v_pal ii n_pal i oo t_pal i	3
+ii oo s	3
+ii u d ee t_pal i	3
+ii u e d a s	3
+ii u e s t a	3
+ii u n g t_pal i	3
+ii u s t_pal i	3
+ii uo k a s	3
+ii uo k t_pal i s	3
+ii uu r a	3
+ii uu s	3
+k a b ee t_pal i	3
+k a b l_vel ii s	3
+k a d a ii i s e	3
+k a ii i l_pal i s	3
+k a ii i m a s	3
+k a ii i n a	3
+k a k l_vel a s	3
+k a k t a	3
+k a l_vel b a	6
+k a l_vel b ee t_pal i	3
+k a l_vel b ee t_pal i s	3
+k a l_vel n a s	3
+k a l_vel t ee	3
+k a l_vel v a	3
+k a m i e n a s	3
+k a m p a s	6
+k a m p e l_pal i s	3
+k a n d Zh_pal i o t_pal i	3
+k a n oo p a	3
+k a p a s	3
+k a p oo t_pal i	3
+k a r Sh t a s	3
+k a r Sh t_pal i s	6
+k a r a l_pal i u s	3
+k a r a s	3
+k a r k l_vel a s	3
+k a r t aa	3
+k a r t u	3
+k a r t u s	3
+k a r t_pal i s	6
+k a r v ee	3
+k a s	6
+k a s ii t_pal i	3
+k a s p_pal i n a s	3
+k a s t u v a s	3
+k a s t_pal i	3
+k a t ee	3
+k a t_pal i l_vel a s	3
+k a u l_vel a s	3
+k ae s t_pal i	3
+k ai k a d a	3
+k ai m e n ee	3
+k ai p	3
+k ai r ii s	3
+k au b u r ii s	3
+k au k t_pal i	3
+k e l_pal e s	3
+k e l_pal i s	3
+k e l_vel n ee s	3
+k e l_vel t_pal i	3
+k e l_vel t_pal i s	3
+k e p e n_pal ii s	3
+k e p t_pal i	6
+k e p u r ee	3
+k e p_pal i n t_pal i	3
+k e r t ee	3
+k e t u r_pal e s d e Sh_pal i m t	3
+k e t u r_pal i	3
+k e t v_pal i r t a d i e n_pal i s	3
+k ee d ee	3
+k ee n_pal i s	3
+k ei s t_pal i	3
+k ei s t_pal i s	3
+k i e k	3
+k i e k_pal i s	6
+k i e t a s	6
+k ii b o t_pal i	3
+k l_pal i ii u e t_pal i	3
+k l_vel a m p ii n ee	3
+k l_vel a u s t_pal i	3
+k l_vel ai d a	3
+k l_vel ai d_pal i n t_pal i	3
+k l_vel au s ii t_pal i s	3
+k n_pal ii g a	3
+k o d ee l_vel	3
+k o m p a n_pal i ii a	3
+k o v a	3
+k oo Sh ee	3
+k oo ii a	3
+k oo p ee Ch_pal i o s	3
+k oo p t_pal i	3
+k oo s ee t_pal i	3
+k oo t a s	3
+k oo v a s	3
+k r a Sh t a s	6
+k r a n t a s	3
+k r a u t u v ee	3
+k r au ii a g_pal ii s l_vel ee	3
+k r au ii a s	3
+k r e p Sh e l_pal i s	3
+k r e p Sh ii s	3
+k r ei p t_pal i	3
+k r ii Zh_pal i u s	3
+k r oo s n_pal i s	3
+k r u t ee t_pal i	3
+k r uo p Sh t u s	3
+k r uu t_pal i n ee	3
+k r uu t_pal i s	3
+k r uu v a	3
+k r_pal i s t_pal i	6
+k u l_vel Sh_pal i s	3
+k u l_vel n a s	3
+k u r	6
+k u r l_pal i n k	3
+k u r Ch_pal e s	3
+k uu n a s	3
+k v a p a s	6
+k v ai l_vel a s	3
+k v ee p u e t_pal i	3
+k v i e s t_pal i	6
+k_pal eu Sh_pal i n_pal i s	3
+k_pal eu l_vel ee	3
+k_pal i Sh k a s	3
+k_pal i Sh t_pal i	3
+k_pal i b_pal i r a s	3
+k_pal i b_pal i r k Sh t_pal i s	3
+k_pal i l_vel p a	3
+k_pal i l_vel t_pal i	3
+k_pal i r m ee l_vel ee	3
+k_pal i r p t_pal i	3
+k_pal i t a s	3
+k_pal i t aa k a r t aa	3
+l_pal i a u t_pal i s	3
+l_pal i g a	3
+l_pal i g oo t a s	3
+l_pal i k t_pal i	3
+l_pal i n g u e t_pal i	3
+l_pal i n k ee t_pal i	3
+l_pal i n k s m a s	3
+l_pal i n_pal i ii a	3
+l_pal i p d ii t_pal i	3
+l_pal i uu d n a s	3
+l_pal i uu n a s	3
+l_pal i z d a s	3
+l_pal ii d e k a	3
+l_vel a Sh a s	3
+l_vel a b ai	3
+l_vel a ii i Sh k a s	3
+l_vel a ii i b a s	3
+l_vel a ii i m ee	3
+l_vel a ii i s t_pal ii t_pal i	3
+l_vel a n g a s	3
+l_vel a n k a s	3
+l_vel a n k ii t_pal i	3
+l_vel a p a s	3
+l_vel a p ee	3
+l_vel a p k r_pal i t_pal i s	3
+l_vel a u Zh a s	3
+l_vel a u Zh_pal ii t_pal i	3
+l_vel a u k t_pal i	6
+l_vel a z d a	6
+l_vel ae ii i s t_pal i s	3
+l_vel ai Zh ii t_pal i	3
+l_vel ai k a s	3
+l_vel ai k ii t_pal i	6
+l_vel ai k r a Sh t_pal i s	3
+l_vel ai v e l_pal i s	3
+l_vel e d a s	3
+l_vel e n k t_pal i	6
+l_vel e n t a	3
+l_vel e n t ii n a	3
+l_vel ee k Sh t a s	3
+l_vel ee k t_pal i	6
+l_vel ee l_vel ee	3
+l_vel i e Zh u v_pal i s	3
+l_vel i e k n a s	3
+l_vel i e p a	3
+l_vel i e s t_pal i	3
+l_vel i e t u s	3
+l_vel i e t_pal i	3
+l_vel i e t_pal i s	3
+l_vel ii d_pal ii t_pal i s	3
+l_vel ii t_pal i	3
+l_vel o k ii s	3
+l_vel o p Sh ii s	3
+l_vel oo p e t a	3
+l_vel oo t_pal i	3
+l_vel oo v a	3
+l_vel uu Zh t_pal i	3
+l_vel uu p a	3
+m a Zh a s	3
+m a Zh ee t_pal i	3
+m a n ii t_pal i	3
+m a r Sh k_pal i n_pal ei	3
+m a r g a s	3
+m a t u e t_pal i	3
+m a u d_pal ii t_pal i s	3
+m a u t_pal i	3
+m a z g a s	3
+m a z g oo t_pal i	3
+m ae ii i s t r a s	3
+m ai Sh a s	3
+m ai Sh e l_pal i s	3
+m ai Sh ii t_pal i	3
+m ai s t a s	3
+m e d Zh_pal i oo t_pal i	3
+m e d i e n a	3
+m e d u s	3
+m e d_pal i s	3
+m e g z t_pal i	3
+m e l_vel Zh t_pal i	3
+m e l_vel a s	3
+m e r g a ii i t ee	3
+m e r g ii t ee	3
+m e s	3
+m e s t_pal i	3
+m e t ai	3
+m ee g t_pal i	3
+m ee g_pal i n t_pal i	3
+m ee l_pal ii n a s	3
+m ee n u l_pal i s	3
+m ee n uo	3
+m ee s a	3
+m i e g a s	3
+m i e g oo t_pal i	3
+m i e l_vel a s	3
+m i e s t a s	3
+m ii g t_pal i	3
+m o ii u e t_pal i	3
+m o k ee t_pal i	3
+m oo k_pal ii t o ii a s	3
+m oo k_pal ii t_pal i	3
+m oo k_pal ii t_pal i s	3
+m oo l_pal i s	3
+m oo t e r_pal i s	3
+m oo t_pal i n a	3
+m u Sh t_pal i	6
+m u Sh t_pal i s	3
+m u s ee	3
+m_pal i Sh k a s	3
+m_pal i g l_vel a	3
+m_pal i n k Sh t a s	6
+m_pal i n t_pal i s	3
+m_pal i r t_pal i	3
+m_pal i r t_pal i s	3
+m_pal ii l_vel ee t_pal i	3
+m_pal ii s l_vel ee	3
+n a Sh t a	3
+n a g a s	9
+n a k t_pal i s	3
+n a m a s	3
+n a m ai	3
+n au d a	3
+n au ii a s	3
+n au ii i e n a	3
+n e	3
+n e Sh t_pal i	3
+n e Sh u l_vel ii s	3
+n e Sh v a r u s	3
+n e Sh_pal i oo t_pal i	3
+n e l_vel a ii i m ee	3
+n e r t_pal i	3
+n e t r u k u s	3
+n e t u r t_pal i n g a s	3
+n i e k a d a	3
+n i e k uo m e t	3
+n o r ee t_pal i	6
+n oo k t_pal i	3
+n oo r a s	3
+n oo s_pal i s	3
+n u Sh l_vel u e s t_pal ii t_pal i	3
+n u Zh u d ii t_pal i	3
+n u d a Zh ii t_pal i	3
+n u e d ee m ee	3
+n u e g a s	3
+n u e k a l_vel n ee	3
+n u e s t o l_pal i s	3
+n u g a l_vel ee t_pal i	3
+n u g a r a	3
+n u m a u t_pal i	3
+n u m_pal i r t_pal i	3
+n u p l_vel ee Sh t_pal i	3
+n u s_pal i d ee ii i m a s	3
+n u s_pal i l_vel ae ii i s t_pal i	3
+n u s_pal i s e k t_pal i	3
+n u v a r g t_pal i	3
+n u v_pal i l_vel k t_pal i	3
+o b uo l_vel ii s	3
+o l_vel a	6
+oo Sh t_pal i	3
+oo d a	6
+oo r a s	6
+p a Zh a d ee t_pal i	3
+p a Zh_pal i n t_pal i	3
+p a Zh_pal ii s t a m a s	3
+p a Zh_pal iu r ee t_pal i ii ii	3
+p a b ai g a	3
+p a b ee g t_pal i	3
+p a b u s t_pal i	3
+p a d a l_vel ii t_pal i	3
+p a d au g ee t_pal i	3
+p a d e g t_pal i	3
+p a d ee t_pal i	3
+p a d u e t_pal i	6
+p a g a l_vel b a	3
+p a g a l_vel v ee	3
+p a g ei d a v_pal i m a s	3
+p a g_pal i r t_pal i	3
+p a g_pal ii v e n ae s	3
+p a ii ee g t_pal i	3
+p a ii u s t_pal i	3
+p a ii uu r_pal i s	3
+p a k a b_pal i n t_pal i	3
+p a k a r t_pal i	3
+p a k e l_vel t_pal i	12
+p a k ei s t_pal i	3
+p a k r a Sh t ii s	3
+p a k r ei p t_pal i	3
+p a k v i e s t_pal i	3
+p a k_pal i l_vel t_pal i	3
+p a l_pal i k t_pal i	6
+p a l_vel ai k ii t_pal i	3
+p a l_vel e n k t_pal i	6
+p a l_vel i e p t_pal i	3
+p a l_vel i e s t_pal i	3
+p a m a t ii t_pal i	3
+p a m ai Sh ii t_pal i	3
+p a m e s t_pal i	3
+p a r a g a u t_pal i	3
+p a r d u e t_pal i	3
+p a r d uo t u v ee	3
+p a r g r_pal i uu t_pal i	3
+p a r k r_pal i s t_pal i	3
+p a s a k a	3
+p a s a k o ii i m a s	3
+p a s a k o t_pal i	3
+p a s a u l_pal i s	3
+p a s k u b ee t_pal i	3
+p a s k u t_pal i n_pal i s	3
+p a s k ui	3
+p a s k_pal eu	3
+p a s l_vel ee p t_pal i	3
+p a s o d_pal i n t_pal i	3
+p a s t a t ii t_pal i	6
+p a s t e b ee t_pal i	3
+p a s t u m t_pal i	3
+p a s_pal i ii u d_pal i n t_pal i	3
+p a s_pal i k ei s t_pal i	3
+p a s_pal i l_pal i k t_pal i	3
+p a s_pal i r oo d_pal ii t_pal i	6
+p a s_pal i s e k t_pal i	3
+p a s_pal i s k u b_pal i n t_pal i	3
+p a s_pal i s u k t_pal i	3
+p a s_pal i t a ii i k_pal ii t_pal i	3
+p a s_pal i t_pal i k t_pal i	3
+p a s_pal i uu s t_pal i	3
+p a s_pal i v a ii i k Sh Ch_pal i o t_pal i	3
+p a t a l_vel ai	3
+p a t e k ee t_pal i	3
+p a t i e k a l_vel a s	3
+p a t_pal i k t_pal i	3
+p a uu k s m ee	3
+p a v a d ee l_pal i s	3
+p a v a s a r_pal i s	3
+p a v ae ii i k s l_vel a s	3
+p a v ii k t_pal i	3
+p ai k a s	3
+p ai l_vel s ee t_pal i	3
+p ai m t_pal i	3
+p au k Sh t_pal i s	3
+p e l_vel e n ai	3
+p e l_vel ee	3
+p e l_vel ee d a	3
+p e l_vel k ee	3
+p e l_vel n a s	3
+p e n a s	3
+p e n k t a d i e n_pal i s	3
+p e n k_pal e s d e Sh_pal i m t	3
+p e n k_pal i	3
+p e r	3
+p e r k uu n a s	3
+p e r p l_vel ee Sh t_pal i	3
+p e t e l_pal i Sh k ee	3
+p e t ii s	3
+p ee d a	3
+p ee d o s	3
+p ee d s a k a s	3
+p ei l_pal i s	3
+p i e Sh t_pal i	3
+p i e n a s	3
+p i e t uu s	3
+p i e v a	3
+p ii a u t_pal i	3
+p ii k t_pal i	3
+p ii k_pal i n t_pal i	3
+p l_vel a Sh t a k a	6
+p l_vel a t u s	3
+p l_vel a u t_pal i	6
+p l_vel au k ai	3
+p l_vel au k t_pal i	3
+p l_vel ii Sh t_pal i	3
+p l_vel oo k Sh Ch_pal e s	3
+p l_vel oo k Sh t ee	3
+p l_vel oo n a s	3
+p l_vel u n k s n a	3
+p l_vel uu s t_pal i	3
+p o t oo	6
+p o ii i l_vel s_pal i a u t_pal i	3
+p oo	3
+p oo k a l_vel b_pal i s	3
+p r a Sh ii t_pal i	3
+p r a d ee t_pal i	3
+p r a ei t_pal i	3
+p r a n e Sh t_pal i	3
+p r a n ii k t_pal i	3
+p r a r ii t_pal i	3
+p r a s m ee	3
+p r a s t a s	6
+p r a s_pal i d ee t_pal i	6
+p r au s t_pal i s	3
+p r e k ee	3
+p r i e	3
+p r i e Sh	3
+p r i e Sh a k ii s	3
+p r i e Sh a s	3
+p r i e Zh a s t_pal i s	3
+p r i e g a l_vel v_pal i s	3
+p r i e k_pal i s	3
+p r i e v a r t a	3
+p r o t_pal i n g a s	3
+p r oo	3
+p r oo t a s	3
+p r_pal i b r e n d ae s	3
+p r_pal i d ee t_pal i	3
+p r_pal i n oo k ae s	3
+p r_pal i p_pal i l_vel d_pal ii t_pal i	3
+p r_pal i r_pal i Sh t_pal i	3
+p r_pal i s_pal i m_pal i n t_pal i	3
+p r_pal i v a r g t_pal i	3
+p u Sh_pal i s	3
+p u e d a s	3
+p u l_vel t_pal i	3
+p u r t_pal ii t_pal i	6
+p u r v a s	6
+p u r v_pal i n a s	3
+p u s ee	6
+p u t o s	3
+p uo Sh t_pal i	3
+p uo d u k a s	3
+p uu s t_pal i	6
+p uu t_pal i	3
+p_pal i g u s	3
+p_pal i l_vel d_pal ii t_pal i	3
+p_pal i l_vel k a s	3
+p_pal i l_vel n a s	3
+p_pal i l_vel t_pal i	3
+p_pal i l_vel v a s	3
+p_pal i n k l_vel ee s	3
+p_pal i n_pal i g ai	3
+p_pal i r Sh t a s	6
+p_pal i r k t_pal i	3
+p_pal i r m a	3
+p_pal i r m a d i e n_pal i s	3
+p_pal i r m a s	3
+p_pal i r m ii n	3
+r a Sh ii t_pal i	3
+r a Sh k ii t_pal i	3
+r a Sh t a s	3
+r a g a s	3
+r a g a u t_pal i	3
+r a g_pal i n t_pal i	3
+r a m ii b ee	3
+r a m u m a s	3
+r a n k Sh l_vel uo s t_pal i s	3
+r a n k a	6
+r a n k e n a	3
+r a n k oo v ee	3
+r a s t_pal i	3
+r a t a s	3
+r ai d ee	3
+r au d oo n a s	3
+r e m o n t u e t_pal i	3
+r e n g t_pal i	3
+r e n g t_pal i s	3
+r ei k a l_vel a s	3
+r i e b a l_vel ai	3
+r i e b u s	3
+r i e k ee	3
+r ii t a s	3
+r o g u t ee s	3
+r o p oo t_pal i	3
+r oo d_pal ii t_pal i	3
+r oo d_pal ii t_pal i s	3
+r oo g ee s	3
+r u d uo	3
+r u g p ii uu t_pal i s	3
+r u g s ee ii i s	3
+r uo Sh t_pal i	3
+r uu Sh_pal i s	3
+r uu b ai	3
+r uu g Sh t u s	3
+r uu k a s	3
+r uu k ii t_pal i	3
+r uu p e s t_pal i s	3
+r_pal i Sh t_pal i	3
+r_pal i b a	3
+r_pal i n k t_pal i	6
+r_pal ii Sh u l_vel ii s	3
+r_pal ii t ai	3
+r_pal ii t oo ii	3
+s a g a	3
+s a l_vel a	3
+s a l_vel d u s	3
+s a p n a s	3
+s a u l_vel ee	3
+s a v a ii i t ee	3
+s au s a s	3
+s au s g_pal ii s l_vel ee	3
+s au s u m a	3
+s au s_pal i s	3
+s e k m a d i e n_pal i s	3
+s e m t u v a s	3
+s e n a s	3
+s e n e l_pal i s	3
+s e n e l_vel ee	3
+s e p t ii n_pal e s d e Sh_pal i m t	3
+s e p t_pal ii n_pal i	3
+s e r g a n t_pal i s	3
+s e r g ee t_pal i	3
+s e s uo	3
+s ee d ee t_pal i	3
+s ee k l_vel a	3
+s ee s t_pal i s	3
+s i e n a	3
+s k a l_vel a u t_pal i	3
+s k a l_vel b t_pal i	3
+s k a m b_pal i n t_pal i	6
+s k a r d ee t_pal i	3
+s k a r e l_vel ee	3
+s k ae s t_pal i	3
+s k ai Ch_pal i u e t_pal i	6
+s k ai Ch_pal i u s	3
+s k ai s t u s	3
+s k ai t ii t_pal i	3
+s k au d ee t_pal i	3
+s k au s m a s	3
+s k e l_vel b t_pal i	3
+s k oo n_pal i s	3
+s k r a n d_pal i s	3
+s k r u e s t a s	3
+s k r u z d ee	3
+s k r_pal i s t_pal i	3
+s k u b ee t_pal i	3
+s k u b_pal i n t_pal i	3
+s k_pal i n t_pal i	3
+s k_pal i r t_pal i s	3
+s k_pal ii l_vel ee	3
+s l_pal i d ee	3
+s l_pal i d u s	3
+s l_vel a p s t ii t_pal i	3
+s l_vel ee p t_pal i	6
+s m a g u s	3
+s m a k r a s	3
+s m ai l_vel u s	3
+s m e g e n_pal ii s	3
+s m ee l_pal i s	3
+s m ei g t_pal i	3
+s m oo g t_pal i	3
+s m u l_vel k u s	6
+s m u r t a s	3
+s n i e g a s	3
+s o d_pal i n t_pal i	3
+s o p ee t_pal i	3
+s oo d Zh_pal i u s	3
+s p a l_pal i s	3
+s p a l_vel v oo t a s	3
+s p a r n a s	3
+s p a u s t_pal i	3
+s p i e Ch_pal i u s	3
+s p r a n d a s	3
+s p r u k t_pal i	3
+s p_pal ii n a	3
+s r_pal i u b a	3
+s t a l_vel a s	3
+s t a t ii t_pal i	6
+s t a u g t_pal i	3
+s t ai g a	3
+s t o v ee t_pal i	3
+s t oo g a s	3
+s t oo r a s	3
+s t r ee l_vel ee	3
+s t r o p u s	3
+s t u m t_pal i	6
+s t_pal i k l_vel a s	3
+s t_pal i p r u m a s	3
+s t_pal i p r u s	6
+s u Ch_pal i u p t_pal i	3
+s u a r d ii t_pal i	3
+s u d au Zh ii t_pal i	3
+s u d e g_pal i n t_pal i	3
+s u g a d_pal i n t_pal i	3
+s u g a u t_pal i	3
+s u g r_pal i a u t_pal i	3
+s u g r_pal ii Zh t_pal i	3
+s u ii u n g t_pal i	3
+s u k t_pal i	6
+s u k t_pal i s	3
+s u k u l_vel t_pal i	3
+s u m a n u s	3
+s u n k u s	3
+s u p l_vel ee Sh_pal ii t_pal i	3
+s u p r a s t_pal i	3
+s u p t_pal i	6
+s u p t_pal i s	3
+s u r a s t_pal i	3
+s u r_pal i Sh t_pal i	6
+s u s t oo t_pal i	3
+s u s_pal i r g t_pal i	3
+s u s_pal i r_pal i n k t_pal i	3
+s u t_pal i k t_pal i	3
+s u v i e n_pal ii t_pal i	3
+s u v oo k t_pal i	3
+s u v_pal ii n_pal i oo t_pal i	3
+s uu n u s	3
+s v a r s t_pal i s	3
+s v e Ch_pal e s	3
+s v e t_pal i m a s	3
+s v ei k a t a	3
+s v ei k t_pal i	3
+s v i e s t a s	3
+s v i e s t_pal i	3
+s v o g uu n a s	3
+s v oo r_pal i s	3
+s v_pal ii r u e t_pal i	3
+s_pal i d a b r a s	3
+s_pal i l_vel p n a s	3
+s_pal i l_vel p n ee t_pal i	3
+s_pal i r g t_pal i	3
+s_pal i r p t_pal i	3
+s_pal i uu l_vel a s	3
+s_pal i uu s t_pal i	3
+s_pal i uu t_pal i	3
+t a k a s	3
+t a m s u s	3
+t a n k u s	3
+t a p ii t_pal i	3
+t a p t_pal i s	3
+t a r k u e t_pal i	3
+t a r p	3
+t a r t_pal i	3
+t a t	3
+t ai p	3
+t ai s ii t_pal i	3
+t ai s ii t_pal i s	3
+t au k ai	3
+t au t a	3
+t e k ee t_pal i	6
+t e m p t_pal i	3
+t e n	6
+t e n l_pal i n k	3
+t e n ai	3
+t e p t_pal i	3
+t e t a	3
+t ee k m ee	3
+t ee v a s	3
+t ee v ai	3
+t ei s ii b ee	3
+t ei s_pal i n g a s	3
+t i e s a	3
+t i e s_pal ei	3
+t o n a s	3
+t oo l_pal i m a s	3
+t r e Ch_pal e s	3
+t r e Ch_pal i a d i e n_pal i s	3
+t r e n k t_pal i	3
+t r ii s	3
+t r o Sh k_pal i m a s	3
+t r u k d ii t_pal i	3
+t r u m p a s	3
+t r u p u t_pal ii	3
+t r uu k t_pal i	3
+t r_pal i k d ii t_pal i	3
+t r_pal i n t_pal i	3
+t r_pal i s d e Sh_pal i m t	3
+t r_pal i u k Sh m a s	3
+t r_pal i u k Sh m a u t_pal i	3
+t r_pal i uu s a s	3
+t r_pal i uu s t_pal i	3
+t u	3
+t u Sh Ch_pal e s	3
+t u r ee t_pal i	3
+t u r t a s	3
+t u r t_pal i n g a s	3
+t uo ii au	3
+t uu k s t a n t_pal i s	3
+t v o r a	3
+t v_pal i r t a s	3
+t_pal i k	3
+t_pal i k ee t_pal i	3
+t_pal i k r a s	6
+t_pal i l_vel t a s	3
+t_pal i n g u s	3
+t_pal i n k l_vel a s	3
+t_pal i r p t_pal i	3
+u Zh	3
+u Zh Sh a l_vel t_pal i	3
+u Zh b ai g t_pal i	3
+u Zh d a r a s	3
+u Zh d a r ii t a s	3
+u Zh d a r ii t_pal i	3
+u Zh d e n g t_pal i	6
+u Zh k l_vel oo t_pal i	3
+u Zh m_pal i g t_pal i	3
+u Zh m_pal i r Sh t_pal i	3
+u Zh r a k t a s	3
+u Zh t e p t_pal i	3
+u Zh u e s t_pal i	3
+u Zh u t e k_pal i s	3
+u e d a s	3
+u e g a	3
+u e s t_pal i	3
+u g n_pal i s	3
+u ii i t_pal i	3
+u p e l_pal i s	3
+u p ee	3
+u t ee l_vel ee	3
+uo d e g a	3
+uu s ai	3
+v a Zh_pal i n ee t_pal i	3
+v a Zh_pal iu e t_pal i	3
+v a d o v a u t_pal i	6
+v a d oo v a s	3
+v a d_pal i n t_pal i	3
+v a g_pal i s	3
+v a ii i s t a s	3
+v a k a r	3
+v a k a r a s	3
+v a k a r ai	3
+v a l_vel d Zh_pal e	3
+v a l_vel d ii t_pal i	6
+v a l_vel g_pal i s	3
+v a l_vel g_pal ii t_pal i	3
+v a l_vel ii t_pal i	3
+v a l_vel s t_pal i ii a	3
+v a l_vel t_pal i s	3
+v a m z d_pal i s	3
+v a n d uo	3
+v a r d a s	3
+v a r d_pal ii t_pal i	3
+v a r g a s	3
+v a r n a	3
+v a r t ai	3
+v a s a r a	3
+v a s a r_pal i s	3
+v ae ii i d a s	3
+v ae ii i d r o d_pal i s	3
+v ai k a s	3
+v ai k_pal i n a s	3
+v ai v oo r_pal ii k Sh t ee	3
+v e l_vel t ui	3
+v e r k t_pal i	3
+v e r s m ee	3
+v e r s t_pal i	3
+v e r t_pal i n g a s	3
+v e s t_pal i	3
+v ee Zh ee	3
+v ee ii a s	3
+v ee l_pal eu	3
+v ee l_vel	3
+v ee s u s	3
+v i e n	3
+v i e n a s	6
+v i e n aa k a r t aa	3
+v i e n u e l_pal i k a	3
+v i e t a	6
+v i e t oo v ee	6
+v ii r a s	6
+v o v e r a ii i t ee	3
+v oo g t_pal i	3
+v oo r a s	3
+v oo s	3
+v_pal i Sh t a	3
+v_pal i d u r d i e n_pal i s	3
+v_pal i d u r ii s	3
+v_pal i l_vel k a s	3
+v_pal i l_vel k t_pal i	3
+v_pal i l_vel n a	3
+v_pal i l_vel n_pal i s	3
+v_pal i n_pal i s	3
+v_pal i r Sh u ii	3
+v_pal i r Sh uu n ee	3
+v_pal i r Sh_pal i n_pal i n k a s	3
+v_pal i r p ee t_pal i	3
+v_pal i r t_pal i	6
+v_pal i r v ee	3
+v_pal i r_pal i n t_pal i	3
+v_pal i s a d a	3
+v_pal i s a s	3
+v_pal i s u r	3
+v_pal i s uo m e t	3
+v_pal ii r_pal i Sh k_pal i s	3
